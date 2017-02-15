@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Yorso/ConfigData-lab3.git
+
+server:
+  port: 8001
