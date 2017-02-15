@@ -1,4 +1,4 @@
-##Lab 4 - Create a Spring Cloud Eureka Server and Client
+##Lab 4 - Create a Spring Cloud Eureka Server and Client (2)
 
   **BONUS - Refactor to use Spring Cloud Config Server.**  
 
@@ -18,7 +18,7 @@
 ```
 <dependency>
     <groupId>org.springframework.cloud</groupId>
-		<artifactId>spring-cloud-starter-config</artifactId>
+    <artifactId>spring-cloud-starter-config</artifactId>
 </dependency>
 ```
 
