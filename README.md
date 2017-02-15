@@ -1,6 +1,6 @@
 ##Lab 4 - Create a Spring Cloud Eureka Server and Client (2)
 
-First of all, run microspring4-cloud-server-lab4. Then run microspring4-eureka-server-lab4. Then run the others.
+First of all, run microspring4-cloud-server-lab4. Then run microspring4-eureka-server-lab4. Finally run the others.
 
   **Refactor to use Spring Cloud Config Server.**  
 
