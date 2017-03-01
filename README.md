@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://www.gregoriopalama.com/wp-content/uploads/2016/06/cloud.png" alt="Spring Cloud Netflix"/>
+</p>
+
 ##Lab 4 - Create a Spring Cloud Eureka Server and Client (2)
 
 First of all, run microspring4-cloud-server-lab4. Then run microspring4-eureka-server-lab4. Finally run the others.
